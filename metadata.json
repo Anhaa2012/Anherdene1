@@ -1,0 +1,6 @@
+{
+  "name": "Anhaa - 3D Creator",
+  "description": "Premium 3D creator portfolio landing page for Anhaa featuring 3D designs, services, and visual projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
